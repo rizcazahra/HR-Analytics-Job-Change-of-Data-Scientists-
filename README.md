@@ -101,3 +101,8 @@ Model Hyperparameter Tuning
 
 B. Feature Importance
 ![image](https://user-images.githubusercontent.com/84758353/180401902-3b9bc045-8d7d-4e52-b635-3c3c26cbcb5a.png)
+
+Rekomendasi:
+![image](https://user-images.githubusercontent.com/84758353/180402287-c5d737e7-7c4d-4612-9509-a984d483b3c9.png)
+
+
